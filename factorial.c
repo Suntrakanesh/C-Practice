@@ -8,9 +8,6 @@ void main()
  scanf("%d",&a);
  fact(a);
  getch();
-
-
-
 }
 void fact(int x)
 {
@@ -18,8 +15,6 @@ int b=1,i;
 for(i=1;i<=x;i++)
 {
   b*=i;
-
-
 }
 printf("the factorial of the number is :%d",b);
 }
