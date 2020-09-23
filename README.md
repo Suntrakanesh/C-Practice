@@ -1,1 +1,1 @@
-# C practice programs
+# C practice
